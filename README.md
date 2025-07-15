@@ -52,14 +52,14 @@ PortReact/
 │   └── main.jsx        # ReactDOM entry point
 └── tailwind.config.js  # Tailwind configuration
 
---⚡ Features
+-- ⚡ Features
 📱 Responsive Design — Works seamlessly across devices
 🎨 Beautiful UI — Powered by TailwindCSS
 💬 Contact Form — Integrated with EmailJS for direct messages
 🧠 Clean Codebase — Easy to read, scalable, and customizable
 🌙 (Optional) Dark/Light theme support
 
---🤝 Connect with Me
+-- 🤝 Connect with Me
 📧 Email: rakeshnayak.contact@gmail.com
 💼 LinkedIn: linkedin.com/in/rakeshnayak
 🌐 Portfolio (Soon): rakeshnayak.dev

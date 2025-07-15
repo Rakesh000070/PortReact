@@ -75,8 +75,6 @@ This portfolio was inspired by countless devs, designers, and open-source creato
 
 “Some portfolios just show work. This one tells a story.”
 
-```
-
 ---
 
 ### ✅ Next Steps:
@@ -87,6 +85,6 @@ This portfolio was inspired by countless devs, designers, and open-source creato
 - Push regularly to make it active on GitHub.
 
 Want me to turn this into a `README.md` file and help upload it directly to your GitHub repo?
-```
+
 
 

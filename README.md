@@ -54,11 +54,7 @@ PortReact/
 
 ⚡ Features
 📱 Responsive Design — Works seamlessly across devices
-
 🎨 Beautiful UI — Powered by TailwindCSS
-
 💬 Contact Form — Integrated with EmailJS for direct messages
-
 🧠 Clean Codebase — Easy to read, scalable, and customizable
-
 🌙 (Optional) Dark/Light theme support

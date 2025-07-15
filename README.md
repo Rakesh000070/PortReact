@@ -52,6 +52,8 @@ PortReact/
 │   └── main.jsx        # ReactDOM entry point
 └── tailwind.config.js  # Tailwind configuration
 
+```
+
 ## ⚡ Features
 📱 Responsive Design — Works seamlessly across devices
 🎨 Beautiful UI — Powered by TailwindCSS
